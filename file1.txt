@@ -1,4 +1,3 @@
 Line1
 Line2
-Line1`:wq
-Li2
+Line3
